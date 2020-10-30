@@ -34,3 +34,6 @@ Use to query stuff from the shell:
 
 
 
+# Installing
+
+Run `go install ./...` to install all supported languages. 
